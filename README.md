@@ -1,6 +1,6 @@
 ---
 title: "Course Project 1 - Reproducible Research"
-author: "Shengyu Chen"
+author: "Hemanth Singanamalla"
 date: "March 20, 2016"
 output: html_document
 ---
